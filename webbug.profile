@@ -1,5 +1,5 @@
 # Zer0byte Custom C2 Profile
-set sample_name "1And0s";
+set sample_name "1sAnd0s";
 set sleeptime "2000";
 set jitter    "20";
 set useragent "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36";
